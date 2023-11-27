@@ -1,0 +1,1 @@
+PLEASE change the $(OPENCVDIR)/include and $(OPENCVDIR)/lib with your local OpenCV directories in Project Configurations before you build the project

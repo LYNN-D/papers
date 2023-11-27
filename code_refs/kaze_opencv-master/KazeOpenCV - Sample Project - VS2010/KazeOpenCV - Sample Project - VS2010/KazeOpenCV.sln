@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KazeOpenCV", "KazeOpenCV\KazeOpenCV.vcxproj", "{55F2B0B9-40A4-4E63-B061-F631E2FAE0BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55F2B0B9-40A4-4E63-B061-F631E2FAE0BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{55F2B0B9-40A4-4E63-B061-F631E2FAE0BD}.Debug|Win32.Build.0 = Debug|Win32
+		{55F2B0B9-40A4-4E63-B061-F631E2FAE0BD}.Debug|x64.ActiveCfg = Debug|x64
+		{55F2B0B9-40A4-4E63-B061-F631E2FAE0BD}.Debug|x64.Build.0 = Debug|x64
+		{55F2B0B9-40A4-4E63-B061-F631E2FAE0BD}.Release|Win32.ActiveCfg = Release|Win32
+		{55F2B0B9-40A4-4E63-B061-F631E2FAE0BD}.Release|Win32.Build.0 = Release|Win32
+		{55F2B0B9-40A4-4E63-B061-F631E2FAE0BD}.Release|x64.ActiveCfg = Release|x64
+		{55F2B0B9-40A4-4E63-B061-F631E2FAE0BD}.Release|x64.Build.0 = Release|x64
+		{FAA3037A-A71C-4661-B6FD-685F6B837AC4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FAA3037A-A71C-4661-B6FD-685F6B837AC4}.Debug|Win32.Build.0 = Debug|Win32
+		{FAA3037A-A71C-4661-B6FD-685F6B837AC4}.Debug|x64.ActiveCfg = Debug|x64
+		{FAA3037A-A71C-4661-B6FD-685F6B837AC4}.Release|Win32.ActiveCfg = Release|Win32
+		{FAA3037A-A71C-4661-B6FD-685F6B837AC4}.Release|Win32.Build.0 = Release|Win32
+		{FAA3037A-A71C-4661-B6FD-685F6B837AC4}.Release|x64.ActiveCfg = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
